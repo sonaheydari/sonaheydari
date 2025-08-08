@@ -22,7 +22,7 @@ Here are some of the data analysis projects I've completed:
 - **Tools:** Python, Tableau  
 - Cleaned and merged listing/review datasets, explored price influencers, availability, and neighborhood reviews. Presented key trends via interactive Tableau dashboard.
 
-🔗 [View Project](https://github.com/sonaheydari)/airbnb-toronto-analysis)
+🔗 [View Project](https://github.com/sonaheydari/Airbnb-Project)
 
 ---
 
