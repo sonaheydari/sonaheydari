@@ -14,7 +14,7 @@ Here are some of the data analysis projects I've completed:
 - **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn  
 - Analyzed 3 years of global COVID-19 data to uncover trends, death rates, and anomalies. Created clear visualizations to understand monthly case/death patterns.
 
-🔗 [View Project](https://github.com/sonaheydari/Airbnb-Project)
+🔗 [View Project](https://github.com/sonaheydari/COVID-19-Data-Analysis)
 
 ---
 
